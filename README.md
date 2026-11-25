@@ -122,7 +122,21 @@ for i in range(5):
     <img width="554" height="396" alt="image" src="https://github.com/user-attachments/assets/81232b25-568e-4453-af4a-daa8ecb71eae" />
     <img width="554" height="299" alt="image" src="https://github.com/user-attachments/assets/d91e0a8a-5280-4886-8f58-2533d33104f2" />
     <img width="554" height="284" alt="image" src="https://github.com/user-attachments/assets/be9212f4-4e6e-4f71-b3f8-43a953665c83" />
-   ##  Conclusion:
+## Output:
+
+<img width="552" height="69" alt="image" src="https://github.com/user-attachments/assets/54d11085-30ec-40a5-991a-9428d8a24ef2" />
+
+<img width="504" height="504" alt="image" src="https://github.com/user-attachments/assets/c20eb22f-3b55-49c0-b143-37f5addd6cee" />
+
+<img width="554" height="168" alt="image" src="https://github.com/user-attachments/assets/492590f2-c9b7-454a-8896-af40ab392f72" />
+
+<img width="554" height="396" alt="image" src="https://github.com/user-attachments/assets/172ec05a-722a-4892-ac1f-3ca125649342" />
+
+<img width="554" height="299" alt="image" src="https://github.com/user-attachments/assets/2fcf1aa5-f34e-4fa6-a7ab-c47df34f1fc1" />
+
+<img width="554" height="284" alt="image" src="https://github.com/user-attachments/assets/04e0bf5d-59df-4355-8b9f-d301785ce435" />
+
+##  Conclusion:
 Thus successfully implemented and trained a CNN to recognize objects across ten distinct categories using the CIFAR 10 dataset.
 
 
